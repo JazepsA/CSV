@@ -1,0 +1,42 @@
+[
+    {
+        "Id": "1",
+        "Klase": "9",
+        "Vards": "Arturs",
+        "Uzvards": "Malavka",
+        "Mensis": "Marts",
+        "Maksa par pusdienam": "27"
+    },
+    {
+        "Id": "2",
+        "Klase": "10",
+        "Vards": "Arturs",
+        "Uzvards": "Hleborezka",
+        "Mensis": "Augusts",
+        "Maksa par pusdienam": "30"
+    },
+    {
+        "Id": "3",
+        "Klase": "9",
+        "Vards": "Uldis",
+        "Uzvards": "Ponosenka",
+        "Mensis": "Septembris",
+        "Maksa par pusdienam": "30"
+    },
+    {
+        "Id": "4",
+        "Klase": "6",
+        "Vards": "Janis",
+        "Uzvards": "Gudrais",
+        "Mensis": "Janvaris",
+        "Maksa par pusdienam": "25"
+    },
+    {
+        "Id": "5",
+        "Klase": "12",
+        "Vards": "Dainis",
+        "Uzvards": "Bermundenko",
+        "Mensis": "Junijs",
+        "Maksa par pusdienam": "21"
+    }
+]
